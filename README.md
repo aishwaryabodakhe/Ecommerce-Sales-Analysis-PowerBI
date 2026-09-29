@@ -42,7 +42,7 @@ The dashboard provides insights into sales performance, profit, quantity, averag
 - Microsoft Power BI
 - DAX
 - Power Query
-- Excel / CSV
+- Excel
 
 🖼️ Dashboard Preview
 
