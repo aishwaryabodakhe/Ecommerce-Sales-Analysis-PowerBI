@@ -46,7 +46,7 @@ The dashboard provides insights into sales performance, profit, quantity, averag
 
 🖼️ Dashboard Preview
 
-"E-Commerce Sales Dashboard" (Ecommerce_Sales_Dashboard.png)
+![E-Commerce Sales Dashboard](Ecommerce_Sales_Dashboard.png)
 
 📁 Project Files
 
